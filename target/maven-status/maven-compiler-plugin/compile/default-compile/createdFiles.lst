@@ -1,0 +1,6 @@
+com\bkacad\app\exceptions\DatabaseActionException.class
+com\bkacad\app\models\entities\Movie.class
+com\bkacad\app\models\dao\MovieDAO.class
+com\bkacad\app\controller\HelloController.class
+com\bkacad\app\exceptions\AbstractException.class
+com\bkacad\app\controller\MovieController.class
